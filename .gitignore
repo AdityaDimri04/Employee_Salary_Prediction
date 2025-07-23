@@ -1,0 +1,13 @@
+# Ignore the checkpoint folder
+checkpoint/
+
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
